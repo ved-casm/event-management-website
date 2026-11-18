@@ -1,0 +1,140 @@
+[
+  {
+    "name": "temple",
+    "source": "https://unsplash.com/photos/a-group-of-people-standing-around-a-decorated-elephant-gc5yy9bpFWw",
+    "photographer": "Sleeba Thomas",
+    "license": "Unsplash License, marked free on source page"
+  },
+  {
+    "name": "wedding",
+    "source": "https://unsplash.com/photos/elegant-wedding-hall-with-floral-decorations-bvDoQsC0PFs",
+    "image": "https://images.unsplash.com/photo-1745573673235-5f2cee3ff9a8?auto=format&fit=crop&w=1800&q=85",
+    "license": "Unsplash License, marked free on source search result"
+  },
+  {
+    "name": "flowers",
+    "source": "https://unsplash.com/photos/wedding-decorations-feature-floral-arrangements-and-tables-CnGcCzI4fOA",
+    "image": "https://images.unsplash.com/photo-1747040762931-d1c96be72798?auto=format&fit=crop&w=1800&q=85",
+    "license": "Unsplash License, marked free on source search result"
+  },
+  {
+    "name": "garden",
+    "source": "https://unsplash.com/photos/decorated-wedding-arch-with-floral-aisle-and-seating-XGeKyTG6U6A",
+    "image": "https://images.unsplash.com/photo-1772127822552-ce9ef537bdcf?auto=format&fit=crop&w=1800&q=85",
+    "license": "Unsplash License, marked free on source search result"
+  },
+  {
+    "name": "concert",
+    "source": "https://unsplash.com/photos/crowd-enjoying-a-concert-with-stage-lights-Ix2Qbe-_PPE",
+    "image": "https://images.unsplash.com/photo-1760092189797-f9972faf4d45?auto=format&fit=crop&w=1800&q=85",
+    "license": "Unsplash License, marked free on source search result"
+  },
+  {
+    "name": "kerala-bride",
+    "source": "https://www.pexels.com/photo/traditional-kerala-bride-in-golden-saree-37706841/",
+    "photographer": "Alan george",
+    "license": "Pexels License",
+    "usage": "Hero, stock inspiration only"
+  },
+  {
+    "name": "kerala-jasmine",
+    "source": "https://www.pexels.com/photo/traditional-kerala-saree-with-jasmine-garland-37706903/",
+    "photographer": "Alan george",
+    "license": "Pexels License"
+  },
+  {
+    "name": "kerala-detail",
+    "source": "https://www.pexels.com/photo/love-couple-goals-17843095/",
+    "photographer": "Beard Kid",
+    "license": "Pexels License",
+    "location": "Edappal, Kerala, per source"
+  },
+  {
+    "name": "kerala-couple",
+    "source": "https://www.pexels.com/photo/newlywed-couple-holding-hands-17843094/",
+    "photographer": "Beard Kid",
+    "license": "Pexels License"
+  },
+  {
+    "name": "culture-home",
+    "image": "https://images.pexels.com/photos/38898778/pexels-photo-38898778/free-photo-of-traditional-indian-dance-performance-in-vibrant-attire.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/traditional-indian-dance-performance-in-vibrant-attire-38898778/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "grand-setting",
+    "image": "https://images.pexels.com/photos/34615484/pexels-photo-34615484/free-photo-of-elegant-wedding-table-setup-with-candles.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/elegant-wedding-table-setup-with-candles-34615484/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "intimate-setting",
+    "image": "https://images.pexels.com/photos/28450666/pexels-photo-28450666/free-photo-of-elegant-wedding-reception-table-setting.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/elegant-wedding-reception-table-setting-28450666/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "about-bride",
+    "image": "https://images.pexels.com/photos/33328752/pexels-photo-33328752/free-photo-of-elegant-kerala-bride-in-traditional-wedding-attire.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/elegant-kerala-bride-in-traditional-wedding-attire-33328752/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "wedding-service",
+    "image": "https://images.pexels.com/photos/16987433/pexels-photo-16987433/free-photo-of-portrait-of-a-traditional-couple-kissing.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/portrait-of-a-traditional-couple-kissing-16987433/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "engagement-service",
+    "image": "https://images.pexels.com/photos/31733586/pexels-photo-31733586/free-photo-of-intricate-mehndi-design-with-wedding-rings.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/intricate-mehndi-design-with-wedding-rings-31733586/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "home-service",
+    "image": "https://images.pexels.com/photos/29291974/pexels-photo-29291974/free-photo-of-diwali-traditional-oil-lamp-with-marigold-flowers.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/diwali-traditional-oil-lamp-with-marigold-flowers-29291974/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "birthday-service",
+    "image": "https://images.pexels.com/photos/30218071/pexels-photo-30218071/free-photo-of-boy-blowing-candles-on-birthday-cake-at-party.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/boy-blowing-candles-on-birthday-cake-at-party-30218071/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "corporate-service",
+    "image": "https://images.pexels.com/photos/35335992/pexels-photo-35335992/free-photo-of-professional-conference-with-audience-listening-to-speaker.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/professional-conference-with-audience-listening-to-speaker-35335992/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "culture-service",
+    "image": "https://images.pexels.com/photos/36076819/pexels-photo-36076819/free-photo-of-vibrant-traditional-indian-dance-performance.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/vibrant-traditional-indian-dance-performance-36076819/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "live-service",
+    "image": "https://images.pexels.com/photos/37166326/pexels-photo-37166326/free-photo-of-silhouette-of-a-singer-under-spotlight.jpeg?auto=compress&w=1260&h=750&dpr=1",
+    "source": "https://www.pexels.com/photo/silhouette-of-a-singer-under-spotlight-37166326/",
+    "license": "Pexels License",
+    "usage": "Stock inspiration only"
+  },
+  {
+    "name": "wedding/engagement/home/culture/birthday-service",
+    "source": "Client-supplied decor photos (WhatsApp 2026-11-17), conservatively cleaned and enlarged; watermarks preserved",
+    "license": "Supplied by client"
+  }
+]
