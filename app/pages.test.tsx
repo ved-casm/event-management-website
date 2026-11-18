@@ -18,6 +18,7 @@ describe('Gallery',()=>{
   test('uses the Gallery name, not Celebrations, as the page eyebrow',()=>{render(<Gallery/>);expect(screen.getByText('OUR GALLERY')).toBeInTheDocument()});
 });
 describe('Site shell',()=>{
+  test('uses the new complete logo in header and footer',()=>{const {container}=render(<SiteShell><p>x</p></SiteShell>);expect(screen.getAllByAltText('Sanskriti Fest - Events & Planners')).toHaveLength(2);expect(container.querySelector('.brand b')).not.toBeInTheDocument();expect(container.querySelector('.footer-logo img')).toHaveAttribute('src','/images/logo-transparent.avif')});
   test('navigation has the four pages with Gallery active',()=>{render(<SiteShell><p>x</p></SiteShell>);const nav=screen.getByRole('navigation',{name:'Main navigation'});[['Home','/'],['Our story','/about'],['Gallery','/gallery'],['Connect','/contact']].forEach(([t,h])=>expect(within(nav).getByRole('link',{name:t})).toHaveAttribute('href',h));expect(within(nav).getByRole('link',{name:'Gallery'})).toHaveClass('active')});
   test('call bar shows the supplied number and a tel link',()=>{render(<SiteShell><p>x</p></SiteShell>);expect(screen.getByRole('link',{name:/Call Arun Menon/})).toHaveAttribute('href','tel:9048704545')});
 });

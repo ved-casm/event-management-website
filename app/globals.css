@@ -29,3 +29,6 @@
 .event-description p.event-copy{font-size:13px;line-height:1.75;color:var(--ink,#3a2a2a);margin-top:12px}
 
 .event-card{display:flex;flex-direction:column}.event-description{display:flex;flex-direction:column;flex:1}.event-description a{margin-top:auto}.event-description p.event-copy{margin-bottom:18px}
+
+/* Full Sanskriti Fest artwork, with its own lettering kept intact. */
+.brand{gap:16px}.brand img{width:132px;height:94px;mix-blend-mode:normal}.brand .brand-origin{font-size:16px;line-height:1.15;margin:0;font-style:italic}.footer-logo{width:216px;padding:12px;background:var(--ivory);border-radius:3px}.footer-logo img{width:100%;height:auto}.owner-mark img{mix-blend-mode:normal;width:100%;height:auto}@media(max-width:760px){.brand{gap:13px}.brand img{width:103px;height:72px}.brand .brand-origin{font-size:14px;line-height:1.15}.footer-logo{width:190px}}
