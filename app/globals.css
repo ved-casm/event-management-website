@@ -32,3 +32,13 @@
 
 /* Full Sanskriti Fest artwork, with its own lettering kept intact. */
 .brand{gap:16px}.brand img{width:132px;height:94px;mix-blend-mode:normal}.brand .brand-origin{font-size:16px;line-height:1.15;margin:0;font-style:italic}.footer-logo{width:216px;padding:12px;background:var(--ivory);border-radius:3px}.footer-logo img{width:100%;height:auto}.owner-mark img{mix-blend-mode:normal;width:100%;height:auto}@media(max-width:760px){.brand{gap:13px}.brand img{width:103px;height:72px}.brand .brand-origin{font-size:14px;line-height:1.15}.footer-logo{width:190px}}
+
+/* Keep the main message readable immediately; retain the original upward reveal. */
+@keyframes headingRise{from{transform:translateY(18px)}to{transform:none}}
+.hero-copy>h1{animation-name:headingRise}
+
+/* Keep the origin signature beneath the complete header artwork. */
+.brand{flex-direction:column;justify-content:center;gap:2px;width:148px;flex-shrink:0}.brand img{width:116px;height:79px}.brand .brand-origin{font-size:12px;line-height:1.1;text-align:center;white-space:nowrap}@media(max-width:760px){.brand{width:120px;gap:1px}.brand img{width:92px;height:62px}.brand .brand-origin{font-size:10.5px;line-height:1.1}}
+
+/* Regional signature is the first line of the hero, not part of the header. */
+.hero-origin{font-family:var(--display);font-style:italic;font-weight:500;font-size:28px;line-height:1.15;color:#e2c584;letter-spacing:.2px}@media(max-width:760px){.hero-origin{font-size:25px}}
