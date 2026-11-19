@@ -42,3 +42,6 @@
 
 /* Regional signature is the first line of the hero, not part of the header. */
 .hero-origin{font-family:var(--display);font-style:italic;font-weight:500;font-size:28px;line-height:1.15;color:#e2c584;letter-spacing:.2px}@media(max-width:760px){.hero-origin{font-size:25px}}
+.contact-ribbon>a:first-of-type{margin-left:auto}.contact-ribbon>a.ribbon-second{margin-left:0;border-left:0}
+@media(max-width:760px){.contact-ribbon>a:first-of-type{margin-left:0;flex:1.6}.contact-ribbon>a.ribbon-second{flex:1;width:auto;border-left:1px solid #b78f4f33}.contact-ribbon>a{gap:6px;padding:0 6px}.contact-ribbon b{font-size:15px;letter-spacing:.4px}.contact-ribbon small{font-size:6px;letter-spacing:.5px}}
+@media(max-width:760px){.contact-ribbon b{white-space:nowrap;font-size:14px}.contact-ribbon>a.ribbon-second>svg:first-child{display:none}.contact-ribbon>a:first-of-type{flex:1.7}.contact-ribbon>a.ribbon-second{justify-content:center;gap:5px}}
